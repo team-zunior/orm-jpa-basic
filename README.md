@@ -57,4 +57,4 @@
 ### 관련 개인 Repository 
 - [heee](https://github.com/gmlwjd9405/orm-jpa-basic)
 - [namjunemy](https://github.com/namjunemy/orm-jpa-basic)
-- [integerous]()
+- [integerous](https://github.com/Integerous/orm-jpa-basic)
