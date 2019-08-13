@@ -15,7 +15,7 @@
     - 1DAY 구성 = (30~60분 분량의 강의 수강) + (학습 내용 내재화)
   - 개인 학습 내용은 각자 정리 후 공용 README 에 업데이트한다.
     - 관련 URL / 정리 블로그 URL / 질문 / 내용 정리 등 
-  - 해당 주에 팀원 모두와 논의하고자 하는 사항은 미리 `/weekly-keyword/[current-week].md`에 기록한다.
+  - 해당 주에 팀원 모두와 논의하고자 하는 사항은 미리 `/weekly-keyword/[week-num].md`에 기록한다.
   - 해당 스터디 일정이 끝나면 한 주 동안은 휴식과 함께 아래와 같은 내용을 이야기한다.
     - 다음 스터디로 진행하고 싶은 학습 내용 공유 및 선정
     - 스터디 회고 
@@ -24,11 +24,11 @@
   - 매주 수요일 자정까지 관련 내용을 업로드하지 않으면, 회의 당일 팀원의 음료비를 지불한다.
 
 ## 스터디 일정 (19.08.01 ~ 19.09.30)
-- [1주차: 8/01~8/07](https://github.com/team-zunior/orm-jpa-basic/blob/master/weekly-keword/1week.md)
+- [1주차: 8/01~8/07](https://github.com/team-zunior/orm-jpa-basic/blob/master/weekly-keword/week-1.md)
   - [DAY1] JPA 소개
   - [DAY2] JPA 시작하기
   - [DAY3] 영속성 관리 - 내부 동작 방식
-- 2주차: 8/08~8/14
+- [2주차: 8/08~8/14](https://github.com/team-zunior/orm-jpa-basic/blob/master/weekly-keword/week-2.md)
   - [DAY4] 엔티티 매핑 (1)
   - [DAY5] 엔티티 매핑 (2)
   - [DAY6] 연관관계 매핑 기초 (1)
