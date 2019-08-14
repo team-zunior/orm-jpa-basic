@@ -24,11 +24,11 @@
   - 매주 수요일 자정까지 관련 내용을 업로드하지 않으면, 회의 당일 팀원의 음료비를 지불한다.
 
 ## 스터디 일정 (19.08.01 ~ 19.09.30)
-- [1주차: 8/01~8/07](https://github.com/team-zunior/orm-jpa-basic/blob/master/weekly-keword/week-1.md)
+- [1주차: 8/01~8/07](https://github.com/team-zunior/orm-jpa-basic/blob/master/weekly-keyword/week-1.md)
   - [DAY1] JPA 소개
   - [DAY2] JPA 시작하기
   - [DAY3] 영속성 관리 - 내부 동작 방식
-- [2주차: 8/08~8/14](https://github.com/team-zunior/orm-jpa-basic/blob/master/weekly-keword/week-2.md)
+- [2주차: 8/08~8/14](https://github.com/team-zunior/orm-jpa-basic/blob/master/weekly-keyword/week-2.md)
   - [DAY4] 엔티티 매핑 (1)
   - [DAY5] 엔티티 매핑 (2)
   - [DAY6] 연관관계 매핑 기초 (1)
