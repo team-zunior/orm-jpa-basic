@@ -43,6 +43,9 @@
 
 - 양방향 매핑시 @OneToMany쪽의 List 컬렉션을 ArrayList로 초기화 하는것은 관례 [Link](https://github.com/namjunemy/TIL/blob/master/Jpa/inflearn/07_relational_mapping.md#%EC%96%91%EB%B0%A9%ED%96%A5-%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84%EC%99%80-%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84%EC%9D%98-%EC%A3%BC%EC%9D%B8)
 
+- Lombok @Builder Default Value
+
+
 ### integerous
 - `GenerationType.IDENTITY`
   - 기본키 매핑 전략 중 IDENTITY의 경우, 예외적으로 `entityManager.persist()`를 호출하는 시점에 즉시 INSERT SQL을 실행하고 식별자를 조회한다.
