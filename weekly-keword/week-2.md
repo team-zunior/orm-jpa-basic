@@ -1,7 +1,16 @@
 ## 2주차 점검 키워드 
 
-### heee
--
+### hee
+- Q. id 값(pk 값)은 어떤 타입을 써야 할까?
+  - int 안되는 이유?
+- IDENTITY 전략은 entityManager.persist() 시점에 즉시 INSERT SQL을 실행하고 DB에서 식별자를 조회한다.
+    - JPA는 보통 트랜잭션 commit 시점에 INSERT SQL을 실행한다.
+    - [link](https://gmlwjd9405.github.io/2019/08/12/primary-key-mapping.html)
+- sequence object 의 의미?
+- Q. Team.members를 주인으로 선택하고 Team의 List members를 변경했다. 그 결과는?
+  - A. 다른 테이블인 Member의 UPDATE Query가 날라간다..?
+  - [link](https://gmlwjd9405.github.io/2019/08/14/bidirectional-association.html)
+
 
 ### namjunemy
 - DB 스키마 자동 생성
