@@ -5,6 +5,8 @@
 
 ### namjunemy
 
+- @ManyToMany -> @OneToMany + @ManyToOne ?
+
 
 ### integerous
 
