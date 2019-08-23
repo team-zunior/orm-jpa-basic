@@ -32,7 +32,7 @@
   - [DAY4] 엔티티 매핑 (1)
   - [DAY5] 엔티티 매핑 (2)
   - [DAY6] 연관관계 매핑 기초 (1)
-- 3주차: 8/15~8/21
+- [3주차: 8/15~8/21](https://github.com/team-zunior/orm-jpa-basic/blob/master/weekly-keyword/week-3.md)
   - [DAY7] 연관관계 매핑 기초 (2)
   - [DAY8] 다양한 연관관계 매핑 (1)
   - [DAY9] 다양한 연관관계 매핑 (2)
