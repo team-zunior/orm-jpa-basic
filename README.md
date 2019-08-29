@@ -36,7 +36,7 @@
   - [DAY7] 연관관계 매핑 기초 (2)
   - [DAY8] 다양한 연관관계 매핑 (1)
   - [DAY9] 다양한 연관관계 매핑 (2)
-- 4주차: 8/22~8/28
+- [4주차: 8/22~8/28](https://github.com/team-zunior/orm-jpa-basic/blob/master/weekly-keyword/week-4.md)
   - [DAY10] 고급 매핑
   - [DAY11] 프록시와 연관관계 관리 (1)
   - [DAY12] 프록시와 연관관계 관리 (2)
