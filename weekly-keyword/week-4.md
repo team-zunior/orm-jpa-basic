@@ -15,5 +15,7 @@
   - `em.getReference()` 이후에 `em.find()`를 하면 둘 다 프록시 객체를 반환
   - 객체 동일성을 보장하는 이유
     - 실제 개발할 때 프록시 객체인지 실제 객체인지 신경쓰지 않고 개발할 수 있도록 ??
+- N+1 문제 해결법
+  - https://jojoldu.tistory.com/165
 ---
 ### :house: [Home](https://github.com/team-zunior/orm-jpa-basic)
