@@ -17,5 +17,8 @@
     - 실제 개발할 때 프록시 객체인지 실제 객체인지 신경쓰지 않고 개발할 수 있도록 ??
 - N+1 문제 해결법
   - https://jojoldu.tistory.com/165
+- 도메인 주도 설계(DDD)의 Aggregate Root 개념
+  - https://medium.com/@SlackBeck/%EC%95%A0%EA%B7%B8%EB%A6%AC%EA%B2%8C%EC%9E%87-%ED%95%98%EB%82%98%EC%97%90-%EB%A6%AC%ED%8C%8C%EC%A7%80%ED%86%A0%EB%A6%AC-%ED%95%98%EB%82%98-f97a69662f63
+  - 강의에서 `CascadeType.ALL + orphanRemoval=true`를 사용하면 Aggregate Root 개념을 구현할 때 유용하다고 함.
 ---
 ### :house: [Home](https://github.com/team-zunior/orm-jpa-basic)
