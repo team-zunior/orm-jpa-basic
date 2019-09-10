@@ -40,7 +40,7 @@
   - [DAY10] 고급 매핑
   - [DAY11] 프록시와 연관관계 관리 (1)
   - [DAY12] 프록시와 연관관계 관리 (2)
-- 5주차: 8/29~9/04
+- [5주차: 8/29~9/04](https://github.com/team-zunior/orm-jpa-basic/blob/master/weekly-keyword/week-5.md)
   - [DAY13] 값 타입 (1)
   - [DAY14] 값 타입 (2)
   - [DAY15] 객체지향 쿼리 언어1 - 기본 문법 (1)
