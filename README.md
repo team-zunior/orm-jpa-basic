@@ -43,13 +43,13 @@
 - [5주차: 8/29~9/04](https://github.com/team-zunior/orm-jpa-basic/blob/master/weekly-keyword/week-5.md)
   - [DAY13] 값 타입 (1)
   - [DAY14] 값 타입 (2)
-  - [DAY15] 객체지향 쿼리 언어1 - 기본 문법 (1)
 - 6주차: 9/05~9/15 (추석 연휴)
-- 7주차: 9/16~9/23
+- [7주차: 9/16~9/23](https://github.com/team-zunior/orm-jpa-basic/blob/master/weekly-keyword/week-7.md)
+  - [DAY15] 객체지향 쿼리 언어1 - 기본 문법 (1)
   - [DAY16] 객체지향 쿼리 언어1 - 기본 문법 (2)
   - [DAY17] 객체지향 쿼리 언어1 - 기본 문법 (3)
+- [8주차: 9/24~9/30](https://github.com/team-zunior/orm-jpa-basic/blob/master/weekly-keyword/week-8.md)
   - [DAY18] 객체지향 쿼리 언어2 - 중급 문법 (1)
-- 8주차: 9/24~9/30
   - [DAY10] 객체지향 쿼리 언어2 - 중급 문법 (2)
 - *-스터디 마무리 일정-*
   - 스터디 회고 및 회식: 10월 첫째주 
