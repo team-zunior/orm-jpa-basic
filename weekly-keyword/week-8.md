@@ -33,6 +33,7 @@
   - JPQL의 distinct는 2가지 기능을 제공한다. SQL에서 DISTINCT추가, 애플리케이션에서 중복 제거 시도
   - SQL에서의 DISTINCT는 완전히 동일한 row만 중복 제거한다.
   - 애플리케이션에서 같은 식별자를 가진 일대다의 일쪽 엔티티를 가진 row를 중복 제거해준다. 따라서 원하는 결과를 얻을 수 있다.
+    - [스터디로그](https://github.com/namjunemy/TIL/blob/master/Jpa/inflearn/12_jpql2.md#%ED%8E%98%EC%B9%98-%EC%A1%B0%EC%9D%B8%EA%B3%BC--distinct)
   - **그런데 주의하자....**
     - QueryDSL에서 select().distinct() 또는 selectDistinct()로 DISTINCT 사용시
     - 쿼리에서 distinct가 추가되면서 Using temporary(중복제거시 가상 테이블 생성) 실행계획 사용.
